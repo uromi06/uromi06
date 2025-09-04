@@ -5,8 +5,8 @@
 
 # 👋 Hi, I’m Urmi Bhattacharyya  
 
-Biomedical Engineer specializing in **Neuroimaging, MRI Physics, and AI for Healthcare**.  
-Focused on building **deep learning frameworks** and **quantitative MRI pipelines** for non-invasive brain metabolism mapping.  
+🎓 Biomedical Engineer specializing in **Neuroimaging, MRI Physics, and AI for Healthcare**.  
+🔬 Focused on building **deep learning frameworks** and **quantitative MRI pipelines** for non-invasive brain metabolism mapping.  
 
 ---
 
@@ -20,11 +20,11 @@ Focused on building **deep learning frameworks** and **quantitative MRI pipeline
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=flat&logo=plotly&logoColor=blue)  
 
 **Neuroimaging & MRI Tools**  
-![FSL](https://img.shields.io/badge/FSL-3DDC84?style=flat)  
-![MeVisLab](https://img.shields.io/badge/MeVisLab-1E90FF?style=flat)  
+[<img src="https://raw.githubusercontent.com/uromi06/uromi06/main/fsl-logo-x2.png" width="70">](https://git.fmrib.ox.ac.uk/fsl)  
+[<img src="https://raw.githubusercontent.com/uromi06/uromi06/main/mevislab.jpg" width="70">](https://www.mevislab.de/de/)  
 ![MRTrix3](https://img.shields.io/badge/MRTrix3-228B22?style=flat)  
 ![ITK-SNAP](https://img.shields.io/badge/ITK--SNAP-4682B4?style=flat)  
-![ParaView](https://img.shields.io/badge/ParaView-6495ED?style=flat)   
+![ParaView](https://img.shields.io/badge/ParaView-6495ED?style=flat)    
 
 ---
 
