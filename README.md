@@ -19,14 +19,10 @@
 <b>Programming & Data Science</b><br><br>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" align="left"> <b>Python</b><br><br>
-
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="30" align="left"> <b>PyTorch</b><br><br>
-
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="30" align="left"> <b>NumPy</b><br><br>
-
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="30" align="left"> <b>Pandas</b><br><br>
 
-<img src="https://upload.wikimedia.org/commons/8/84/Matplotlib_icon.svg" width="30" align="left"> <b>Matplotlib</b><br><br>
 
 </td>
 <td valign="top" width="50%">
@@ -49,9 +45,6 @@
   <img src="https://raw.githubusercontent.com/uromi06/uromi06/main/paraview.jpg" width="30" align="left">
 </a> <b>ParaView</b><br><br>
 
-<a href="https://www.itksnap.org/pmwiki/pmwiki.php">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/02/ITK-SNAP_icon.png" width="30" align="left">
-</a> <b>ITK-SNAP</b><br><br>
 
 </td>
 </tr>
