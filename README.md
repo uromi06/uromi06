@@ -31,9 +31,8 @@
 
 [<img src="https://raw.githubusercontent.com/uromi06/uromi06/main/fsl-logo-x2.png" width="60">](https://git.fmrib.ox.ac.uk/fsl)  
 [<img src="https://raw.githubusercontent.com/uromi06/uromi06/main/mevislab.jpg" width="60">](https://www.mevislab.de/de/)  
-![MRTrix3](https://img.shields.io/badge/MRTrix3-228B22?style=flat)  
-![ITK-SNAP](https://img.shields.io/badge/ITK--SNAP-4682B4?style=flat)  
-![ParaView](https://img.shields.io/badge/ParaView-6495ED?style=flat)  
+![MRTrix3](https://www.mrtrix.org/) 
+![[<img src="https://raw.githubusercontent.com/uromi06/uromi06/main/mrtix.jpg" width="60">]](https://www.paraview.org/)
 
 </td>
 </tr>
