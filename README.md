@@ -9,6 +9,11 @@
 🔬 Focused on building **deep learning frameworks** and **quantitative MRI pipelines** for non-invasive brain metabolism mapping.  
 
 ---
+## 🏆 GitHub Trophies  
+
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=uromi06&theme=flat&no-frame=true&margin-w=10&margin-h=10&column=3&title=Commits,Repositories,Stars,Followers" />
+</p>
 
 ## 🛠️ Technical Skills  
 
