@@ -25,7 +25,7 @@
 
 
 </td>
-<td valign="top" width="50%">
+<td valign="top" width="52%">
 
 <b>Neuroimaging & MRI Tools</b><br><br>
 
