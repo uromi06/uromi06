@@ -54,7 +54,7 @@
 - Built a **3D U-Net conditional GAN** to synthesize **CMRO₂ maps** from multimodal MRI (CBV, CBF, T2, T2*).  
 - Preprocessing included GM masking, MNI152 resampling, and normalization.  
 - Achieved high accuracy with all modalities (MSE ~0.0007, SSIM ~0.92, Pearson r ~0.95).  
-- Demonstrated that **vascular modalities (CBV & CBF)** are essential for reliable CMRO₂ estimation:contentReference[oaicite:0]{index=0}.  
+- Demonstrated that **vascular modalities (CBV & CBF)** are essential for reliable CMRO₂ estimation.
 
 ---
 
@@ -62,7 +62,7 @@
 - Re-implementing **Fabber (Bayesian ASL model fitting)** in pure **Python** for reproducibility and accessibility.  
 - Validating against synthetic and age-related cohorts using voxel-/ROI-wise comparisons.  
 - Extending modeling to evaluate fitted vs. fixed T2 values, improving robustness across populations.  
-- Deliverable: **fabberpy**, an open Python library with notebooks for reproducible ASL analysis:contentReference[oaicite:1]{index=1}.  
+- Deliverable: **fabberpy**, an open Python library with notebooks for reproducible ASL analysis.  
 
 ---
 
