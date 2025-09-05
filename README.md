@@ -5,6 +5,15 @@
 
 # 👋 Hi, I’m Urmi!
 
+## 🏆 GitHub Trophies
+<p align="left">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=uromi06&theme=oldie&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=4&title=Commits,Repositories,Stars,Followers"
+    alt="GitHub trophies"
+  />
+</p>
+
+
 🎓 Biomedical Engineer specializing in **Neuroimaging, MRI Physics, and AI for Healthcare**.  
 🔬 Focused on building **deep learning frameworks** and **quantitative MRI pipelines** for non-invasive brain metabolism mapping.  
 
@@ -61,8 +70,7 @@
 ### 🧪 Master Thesis (in progress) — *fabberpy*: Python Bayesian Modeling for ASL  
 - Re-implementing **Fabber (Bayesian ASL model fitting)** in pure **Python** for reproducibility and accessibility.  
 - Validating against synthetic and age-related cohorts using voxel-/ROI-wise comparisons.  
-- Extending modeling to evaluate fitted vs. fixed T2 values, improving robustness across populations.  
-- Deliverable: **fabberpy**, an open Python library with notebooks for reproducible ASL analysis.  
+- Extending modeling to evaluate fitted vs. fixed T2 values, improving robustness across populations.    
 
 ---
 
