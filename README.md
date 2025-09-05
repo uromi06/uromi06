@@ -14,7 +14,7 @@
 
 <table>
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="52%">
 
 <b>Programming & Data Science</b><br><br>
 
