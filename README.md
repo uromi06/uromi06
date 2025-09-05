@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/uromi06/uromi06/main/Urmi%20Banner.png" alt="Urmi Banner" width="100%">
 </p>
 
-# 👋 Hi, I’m Urmi Bhattacharyya  
+# 👋 Hi, I’m Urmi!
 
 🎓 Biomedical Engineer specializing in **Neuroimaging, MRI Physics, and AI for Healthcare**.  
 🔬 Focused on building **deep learning frameworks** and **quantitative MRI pipelines** for non-invasive brain metabolism mapping.  
@@ -55,14 +55,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uromi06&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📫 Connect with Me  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/urmi-bhattacharyya)  
-[![Email](https://img.shields.io/badge/Email-urmi.bhattacharyya06%40gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:urmi.bhattacharyya06@gmail.com)  
+</p> 
 
 ---
 
