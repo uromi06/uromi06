@@ -31,15 +31,12 @@
 <a href="https://git.fmrib.ox.ac.uk/fsl">
   <img src="https://raw.githubusercontent.com/uromi06/uromi06/main/fsl-logo-x2.png" width="30" align="left">
 </a> <b>FSL</b><br><br>
-
 <a href="https://www.mevislab.de/de/">
   <img src="https://raw.githubusercontent.com/uromi06/uromi06/main/mevislab.jpg" width="30" align="left">
 </a> <b>MeVisLab</b><br><br>
-
 <a href="https://www.mrtrix.org">
   <img src="https://raw.githubusercontent.com/uromi06/uromi06/main/mrtrix.jpg" width="30" align="left">
 </a> <b>MRtrix3</b><br><br>
-
 <a href="https://www.paraview.org">
   <img src="https://raw.githubusercontent.com/uromi06/uromi06/main/paraview.jpg" width="30" align="left">
 </a> <b>ParaView</b><br><br>
