@@ -76,11 +76,6 @@
 </p>
 
 <p align="center">
-  <!-- Languages card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uromi06&layout=compact&hide_border=true&cache_seconds=86400&theme=tokyonight" />
-</p>
-
-<p align="center">
   <!-- Trophies -->
   <img src="https://github-profile-trophy.vercel.app/?username=uromi06&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" />
 </p>
