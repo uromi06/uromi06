@@ -28,7 +28,6 @@
 <td valign="top" width="52%">
 
 <b>Neuroimaging & MRI Tools</b><br><br>
-
 <a href="https://git.fmrib.ox.ac.uk/fsl">
   <img src="https://raw.githubusercontent.com/uromi06/uromi06/main/fsl-logo-x2.png" width="30" align="left">
 </a> <b>FSL</b><br><br>
