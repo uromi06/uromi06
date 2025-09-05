@@ -12,19 +12,33 @@
 
 ## 🛠️ Technical Skills  
 
-**Programming & Data Science**  
+<table>
+<tr>
+<td valign="top" width="50%">
+
+<b>Programming & Data Science</b><br><br>
+  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)  
 ![NumPy](https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white)  
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)  
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=flat&logo=plotly&logoColor=blue)  
 
-**Neuroimaging & MRI Tools**  
-[<img src="https://raw.githubusercontent.com/uromi06/uromi06/main/fsl-logo-x2.png" width="70">](https://git.fmrib.ox.ac.uk/fsl)  
-[<img src="https://raw.githubusercontent.com/uromi06/uromi06/main/mevislab.jpg" width="70">](https://www.mevislab.de/de/)  
+</td>
+<td valign="top" width="50%">
+
+<b>Neuroimaging & MRI Tools</b><br><br>
+
+[<img src="https://raw.githubusercontent.com/uromi06/uromi06/main/fsl-logo-x2.png" width="60">](https://git.fmrib.ox.ac.uk/fsl)  
+[<img src="https://raw.githubusercontent.com/uromi06/uromi06/main/mevislab.jpg" width="60">](https://www.mevislab.de/de/)  
 ![MRTrix3](https://img.shields.io/badge/MRTrix3-228B22?style=flat)  
 ![ITK-SNAP](https://img.shields.io/badge/ITK--SNAP-4682B4?style=flat)  
-![ParaView](https://img.shields.io/badge/ParaView-6495ED?style=flat)    
+![ParaView](https://img.shields.io/badge/ParaView-6495ED?style=flat)  
+
+</td>
+</tr>
+</table>
+ 
 
 ---
 
