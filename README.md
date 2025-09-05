@@ -25,7 +25,7 @@
 
 
 </td>
-<td valign="top" width="52%">
+<td valign="top" width="54%">
 
 <b>Neuroimaging & MRI Tools</b><br><br>
 <a href="https://git.fmrib.ox.ac.uk/fsl">
