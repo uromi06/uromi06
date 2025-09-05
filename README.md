@@ -69,13 +69,27 @@
 ## 📊 GitHub Overview  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=uromi06&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  <!-- Stats card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=uromi06&show_icons=true&count_private=true&hide_border=true&cache_seconds=86400&theme=tokyonight" height="165" />
+  <!-- Streak card -->
   <img src="https://streak-stats.demolab.com?user=uromi06&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uromi06&layout=compact&theme=tokyonight&hide_border=true" />
-</p> 
+  <!-- Languages card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uromi06&layout=compact&hide_border=true&cache_seconds=86400&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <!-- Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=uromi06&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" />
+</p>
+
+<p align="center">
+  <!-- Contribution graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=uromi06&theme=tokyo-night&hide_border=true" />
+</p>
+
 
 ---
 
