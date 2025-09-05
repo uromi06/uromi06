@@ -14,7 +14,7 @@
 
 <table>
 <tr>
-<td valign="top" width="54%">
+<td valign="top" width="50%">
 
 <b>Programming & Data Science</b><br><br>
 
@@ -25,7 +25,7 @@
 
 
 </td>
-<td valign="top" width="54%">
+<td valign="top" width="50%">
 
 <b>Neuroimaging & MRI Tools</b><br><br>
 <a href="https://git.fmrib.ox.ac.uk/fsl">
