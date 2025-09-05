@@ -5,15 +5,6 @@
 
 # 👋 Hi, I’m Urmi!
 
-## 🏆 GitHub Trophies
-<p align="left">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=uromi06&theme=oldie&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=4&title=Commits,Repositories,Stars,Followers"
-    alt="GitHub trophies"
-  />
-</p>
-
-
 🎓 Biomedical Engineer specializing in **Neuroimaging, MRI Physics, and AI for Healthcare**.  
 🔬 Focused on building **deep learning frameworks** and **quantitative MRI pipelines** for non-invasive brain metabolism mapping.  
 
