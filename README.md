@@ -31,8 +31,8 @@
 
 [<img src="https://raw.githubusercontent.com/uromi06/uromi06/main/fsl-logo-x2.png" width="60">](https://git.fmrib.ox.ac.uk/fsl)  
 [<img src="https://raw.githubusercontent.com/uromi06/uromi06/main/mevislab.jpg" width="60">](https://www.mevislab.de/de/)  
-![MRTrix3](https://www.mrtrix.org/) 
-![[<img src="https://raw.githubusercontent.com/uromi06/uromi06/main/mrtix.jpg" width="60">]](https://www.paraview.org/)
+[<img src="https://raw.githubusercontent.com/uromi06/uromi06/main/mrtrix.jpg" width="60">](https://www.mrtrix.org) 
+[<img src="https://raw.githubusercontent.com/uromi06/uromi06/main/paraview.jpg" width="60">](https://www.paraview.org)
 
 </td>
 </tr>
