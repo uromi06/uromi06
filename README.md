@@ -21,7 +21,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" align="left"> <b>Python</b><br><br>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="30" align="left"> <b>PyTorch</b><br><br>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="30" align="left"> <b>NumPy</b><br><br>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="30" align="left"> <b>Pandas</b><br><br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/tensorflow-original.svg" width="30" align="left"> <b>Tensorflow</b><br><br>
 
 
 </td>
