@@ -51,7 +51,7 @@
 ## 📂 Research Projects  
 
 ### 🔬  [CMRO₂ Project — Cerebral Metabolic Rate of Oxygen Based on Synthetic Cerebral Blood Volume Maps](https://github.com/uromi06/CMRO2-Project)   
-- Built a **3D U-Net conditional GAN** to synthesize **CMRO₂ maps** from multimodal MRI (CBV, CBF, T2, T2*).  
+- Built a **3D U-Net conditional GAN** to synthesize **CMRO₂ maps** from multimodal quantitative MRI (CBV, CBF, T2, T2*).  
 - Preprocessing included GM masking, MNI152 resampling, and normalization.  
 - Achieved high accuracy with all modalities (MSE ~0.0007, SSIM ~0.92, Pearson r ~0.95).  
 - Demonstrated that **vascular modalities (CBV & CBF)** are essential for reliable CMRO₂ estimation.
