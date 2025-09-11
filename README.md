@@ -59,7 +59,7 @@
 ---
 
 ### 🧪 Master Thesis (in progress) — *fabberpy*: Python Bayesian Modeling for ASL  
-- Re-implementing **Fabber (Bayesian ASL model fitting)** in pure **Python** for reproducibility and accessibility.  
+- Implementing selected Fabber forward models in pure Python, focusing on Bayesian estimation for multi-echo (TE) and multi-inversion time (TI) ASL data.  
 - Validating against synthetic and age-related cohorts using voxel-/ROI-wise comparisons.  
 - Extending modeling to evaluate fitted vs. fixed T2 values, improving robustness across populations.    
 
