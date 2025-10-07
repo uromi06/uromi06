@@ -65,6 +65,14 @@
 
 ---
 
+🩺 **Deep Learning for Pneumonia Diagnosis on NIH ChestX-ray14 with Grad-CAM**  
+*Aug 2025 – Sep 2025*  
+- Developed a **PyTorch-based deep learning pipeline** for pediatric chest-X-ray pneumonia detection, achieving an **AUROC of 0.94** on the held-out test cohort.  
+- Implemented a **ResNet-18 classifier** with stratified validation and threshold optimization, improving specificity and model calibration for reliable clinical deployment.  
+- Integrated **Grad-CAM visual explanations** to localize disease-relevant lung regions, enhancing interpretability and regulatory transparency in line with **medical-AI best practices**.
+
+---
+
 ## 📊 GitHub Overview   
 
 <p align="center">
