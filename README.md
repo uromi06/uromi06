@@ -50,6 +50,15 @@
 
 ## 📂 Research Projects  
 
+### 🩺 [Chest X-Ray XAI — Pneumonia Detection with Explainable Deep Learning](https://github.com/uromi06/chestxray-xai)
+
+- Designed an **end-to-end PyTorch pipeline** for pediatric pneumonia detection from chest X-rays.  
+- Achieved **AUROC 0.92 / AUPRC 0.92** on the held-out test set with stratified validation and threshold tuning.  
+- Applied **Grad-CAM** to visualize pulmonary opacities, confirming alignment with clinical pathology.  
+- Emphasized **explainability and robustness** through calibrated thresholds, lightweight architectures, and reproducible evaluation scripts.
+
+---
+
 ### 🔬  [CMRO₂ Project — Cerebral Metabolic Rate of Oxygen Based on Synthetic Cerebral Blood Volume Maps](https://github.com/uromi06/CMRO2-Project)   
 - Built a **3D U-Net conditional GAN** to synthesize **CMRO₂ maps** from multimodal quantitative MRI (CBV, CBF, T2, T2*).  
 - Preprocessing included GM masking, MNI152 resampling, and normalization.  
@@ -62,14 +71,6 @@
 - Implementing selected Fabber forward models in pure Python, focusing on Bayesian estimation for multi-echo (TE) and multi-inversion time (TI) ASL data.  
 - Validating against synthetic and age-related cohorts using voxel-/ROI-wise comparisons.  
 - Extending modeling to evaluate fitted vs. fixed T2 values, improving robustness across populations.    
-
----
-
-### 🩺 Deep Learning for Pneumonia Diagnosis on NIH ChestX-ray14 with Grad-CAM  
- 
-- Built a PyTorch pipeline for pneumonia detection from pediatric chest X-rays, achieving AUROC 0.94.  
-- Trained a ResNet-18 classifier with stratified validation for better accuracy and reliability.  
-- Used Grad-CAM to visualize disease regions and improve model interpretability.
 
 ---
 
