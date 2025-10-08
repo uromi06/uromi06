@@ -52,10 +52,12 @@
 
 ### 🩺 [Chest X-Ray XAI — Pneumonia Detection with Explainable Deep Learning](https://github.com/uromi06/chestxray-xai)
 
-- Designed an **end-to-end PyTorch pipeline** for pediatric pneumonia detection from chest X-rays.  
-- Achieved **AUROC 0.92 / AUPRC 0.92** on the held-out test set with stratified validation and threshold tuning.  
-- Applied **Grad-CAM** to visualize pulmonary opacities, confirming alignment with clinical pathology.  
-- Emphasized **explainability and robustness** through calibrated thresholds, lightweight architectures, and reproducible evaluation scripts.
+- Built an **end-to-end PyTorch pipeline** for pediatric pneumonia detection from chest X-rays using a fine-tuned **ResNet-18** backbone.  
+- Achieved **AUROC = 0.979**, **AUPRC = 0.985**, with **Sensitivity = 0.997** (screening) and **Precision = 0.94** (rule-in mode).  
+- Applied **Grad-CAM** visualizations to highlight pulmonary opacities, ensuring **transparency** and **clinical interpretability**.  
+- Implemented **temperature scaling** and **Youden’s J** threshold tuning for **probability calibration** and operating-point flexibility.  
+- Emphasized **explainability**, **robust evaluation**, and **reproducible design** for research-grade medical imaging AI.
+
 
 ---
 
