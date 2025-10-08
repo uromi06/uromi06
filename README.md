@@ -74,16 +74,4 @@
 
 ---
 
-## 📊 GitHub Overview   
-
-<p align="center">
-  <!-- Stats card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=uromi06&show_icons=true&count_private=true&hide_border=true&cache_seconds=86400&theme=tokyonight" height="165" />
-  <!-- Streak card -->
-  <img src="https://streak-stats.demolab.com?user=uromi06&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
-
----
-
 ✨ *“Advancing healthcare through imaging, AI, and biomedical engineering.”*
