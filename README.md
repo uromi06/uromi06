@@ -5,8 +5,8 @@
 
 # 👋 Hi, I’m Urmi!
 
-🎓 Biomedical Engineer specializing in **Neuroimaging, MRI Physics, and AI for Healthcare**.  
-🔬 Focused on building **deep learning frameworks** and **quantitative MRI pipelines** for non-invasive brain metabolism mapping.  
+🎓 Biomedical Engineer passionate about advancing **AI-driven Medical Imaging**.  
+🔬 I build and evaluate **deep learning pipelines** for explainable diagnosis and quantitative MRI biomarker estimation.  
 
 ---
 
