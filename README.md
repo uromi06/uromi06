@@ -27,7 +27,7 @@
 </td>
 <td valign="top" width="50%">
 
-<b>Medical Imaging Tools</b><br><br>
+<b>Medical Imaging & Vidualisation Tools</b><br><br>
 <a href="https://git.fmrib.ox.ac.uk/fsl">
   <img src="https://raw.githubusercontent.com/uromi06/uromi06/main/fsl-logo-x2.png" width="30" align="left">
 </a> <b>FSL</b><br><br>
