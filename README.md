@@ -5,8 +5,8 @@
 
 # 👋 Hi, I’m Urmi!
 
-🎓 Biomedical Engineer passionate about advancing **AI-driven Medical Imaging**.  
-🔬 I build and evaluate **deep learning pipelines** for explainable diagnosis and quantitative MRI biomarker estimation.  
+🎓 Biomedical Engineer focused on advancing AI-driven medical imaging and clinically meaningful healthcare technology.
+🔬 I develop and evaluate deep learning pipelines for explainable diagnosis, MRI analysis, and quantitative biomarker estimation. 
 
 ---
 
@@ -27,7 +27,7 @@
 </td>
 <td valign="top" width="50%">
 
-<b>Neuroimaging & MRI Tools</b><br><br>
+<b>Medical Imaging Tools</b><br><br>
 <a href="https://git.fmrib.ox.ac.uk/fsl">
   <img src="https://raw.githubusercontent.com/uromi06/uromi06/main/fsl-logo-x2.png" width="30" align="left">
 </a> <b>FSL</b><br><br>
@@ -68,12 +68,17 @@
 - Demonstrated that **vascular modalities (CBV & CBF)** are essential for reliable CMRO₂ estimation.
 
 ---
-
+<!--
 ### 🧪 Master Thesis (in progress) — *fabberpy*: Python Bayesian Modeling for ASL  
 - Implementing selected Fabber forward models in pure Python, focusing on Bayesian estimation for multi-echo (TE) and multi-inversion time (TI) ASL data.  
 - Validating against synthetic and age-related cohorts using voxel-/ROI-wise comparisons.  
 - Extending modeling to evaluate fitted vs. fixed T2 values, improving robustness across populations.    
-
+-->
 ---
 
+### 🏆 [SugarIQ — Diabetes Management Platform (1st Place, Healthcare Hackathon Bayern 2025)](https://github.com/uromi06/sugariq-diabetes-management-platform)
+- Co-developed **SugarIQ**, an AI-enabled diabetes management platform built in 48 hours, featuring real-time patient monitoring, health trend visualization, medication tracking, and AWS-powered live consultation workflows (Transcribe Medical).  
+- Contributed to **synthetic data generation and patient modeling** using BRFSS health indicators, enabling realistic patient datasets for analysis; platform built with React + TypeScript, AWS Lambda, API Gateway, S3, and Python-based data engineering.
+
+---
 ✨ *“Advancing healthcare through imaging, AI, and biomedical engineering.”*
