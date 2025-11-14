@@ -5,8 +5,8 @@
 
 # 👋 Hi, I’m Urmi!
 
-🎓 Biomedical Engineer focused on advancing AI-driven medical imaging and clinically meaningful healthcare technology.
-🔬 I develop and evaluate deep learning pipelines for explainable diagnosis, MRI analysis, and quantitative biomarker estimation. 
+-🎓 Biomedical Engineer focused on advancing AI-driven medical imaging and clinically meaningful healthcare technology.
+-🔬 I develop and evaluate deep learning pipelines for explainable diagnosis, MRI analysis, and quantitative biomarker estimation. 
 
 ---
 
