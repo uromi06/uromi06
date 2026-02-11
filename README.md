@@ -84,7 +84,6 @@
 - Implemented **Supervised Contrastive Learning (SupCon)** loss to improve representation learning for chest X-ray classification under **spurious shortcut cues** (e.g., chest-drain bias).
 - Built a reusable **SupConLoss** module with label-aware positive/negative pairing, **temperature scaling**, and stable feature normalization for medical-image embeddings.
 - Integrated SupCon into the training pipeline alongside the classification objective, enabling ablation studies comparing **ERM vs. SupCon-regularized training** for shortcut robustness.
-- Added configuration hooks (loss weighting/temperature) so the loss can be toggled cleanly for experiments without modifying model code.
 
 
 ---
