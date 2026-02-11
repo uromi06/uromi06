@@ -80,5 +80,12 @@
 - Co-developed **SugarIQ**, an AI-enabled diabetes management platform built in 48 hours, featuring real-time patient monitoring, health trend visualization, medication tracking, and AWS-powered live consultation workflows (Transcribe Medical).  
 - Contributed to **synthetic data generation and patient modeling** using BRFSS health indicators, enabling realistic patient datasets for analysis; platform built with React + TypeScript, AWS Lambda, API Gateway, S3, and Python-based data engineering.
 
+### 🧠 [Mitigating Shortcut Learning for Medical Imaging (UBRA Hackathon 2025)](https://github.com/uromi06/Mitigating-Shortcut-Learning-for-Medical-Imaging)
+- Implemented **Supervised Contrastive Learning (SupCon)** loss to improve representation learning for chest X-ray classification under **spurious shortcut cues** (e.g., chest-drain bias).
+- Built a reusable **SupConLoss** module with label-aware positive/negative pairing, **temperature scaling**, and stable feature normalization for medical-image embeddings.
+- Integrated SupCon into the training pipeline alongside the classification objective, enabling ablation studies comparing **ERM vs. SupCon-regularized training** for shortcut robustness.
+- Added configuration hooks (loss weighting/temperature) so the loss can be toggled cleanly for experiments without modifying model code.
+
+
 ---
 ✨ *“Advancing healthcare through imaging, AI, and biomedical engineering.”*
