@@ -7,6 +7,7 @@
 
 🎓 Biomedical Engineer focused on advancing AI-driven medical imaging and clinically meaningful healthcare technology.
 🔬 I develop and evaluate deep learning pipelines for explainable diagnosis, MRI analysis, and quantitative biomarker estimation. 
+🌐 **[urmi-dev.vercel.app](https://urmi-dev.vercel.app)** — my personal website
 
 ---
 
